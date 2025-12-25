@@ -1,0 +1,13 @@
+# World Models for Space Invaders
+gymnasium[atari,accept-rom-license]
+ale-py
+torch
+torchvision
+wandb
+huggingface_hub
+opencv-python
+numpy
+matplotlib
+tqdm
+imageio
+imageio-ffmpeg
